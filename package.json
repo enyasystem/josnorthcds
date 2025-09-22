@@ -1,5 +1,5 @@
 {
-  "name": "my-v0-project",
+  "name": "josnorth-ict-cds",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -69,6 +69,10 @@
     "postcss": "^8.5",
     "tailwindcss": "^4.1.9",
     "tw-animate-css": "1.3.3",
+    "eslint": "^8.47.0",
+    "eslint-config-next": "^14.2.16",
+    "@typescript-eslint/parser": "^6.10.0",
+    "@typescript-eslint/eslint-plugin": "^6.10.0",
     "typescript": "^5"
   }
 }
